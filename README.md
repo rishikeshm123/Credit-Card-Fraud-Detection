@@ -14,7 +14,7 @@ In the banking industry, credit card fraud detection using machine learning is n
 
 ## Understanding and Defining Fraud
 
-Credit card fraud is any dishonest act and behavior to obtain information without the proper authorization from the account holder for financial gain. Among different ways of frauds, Skimming is the most common one, which is the way of duplicating information located on the magnetic strip of the card. Apart from this, the other ways are:
+Credit card fraud is any dishonest act and behavior to obtain information without the proper authorization from the account holder for financial gain. Among different ways of frauds, Skimming is the most common one, which is the way of duplicating information located on the magnetic strip of the card. Apart from this, the other ways are:<br>
 •	Manipulation/alteration of genuine cards<br>
 •	Creation of counterfeit cards<br>
 •	Stolen/lost credit cards.<br>
